@@ -1,0 +1,24 @@
+{
+  "name": "orchestration-util-copy",
+  "version": "0.0.1",
+  "description": "Useful functions for copying files and directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchestration-nodejs/orchestration-util-copy.git"
+  },
+  "keywords": [
+    "orchestration",
+    "microservices",
+    "gulp"
+  ],
+  "author": "Redpoint Games Pty Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orchestration-nodejs/orchestration-util-copy/issues"
+  },
+  "homepage": "https://github.com/orchestration-nodejs/orchestration-util-copy#readme"
+}
